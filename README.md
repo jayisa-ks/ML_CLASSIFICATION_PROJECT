@@ -1,10 +1,40 @@
-### Heart Disease Prediction Using Machine Learning
+#  Heart Disease Prediction Using Machine Learning
 
-This project focuses on predicting the risk of heart disease using various machine learning algorithms. 
-The dataset includes medical attributes such as age, gender, pulse rate, glucose level, and other clinical features.
+### Overview
 
-Data preprocessing techniques like outlier handling, feature engineering, and transformation are applied to improve model performance.
-Multiple classification models—including Logistic Regression, KNN, SVM, Naive Bayes, Decision Tree, and Random Forest—are implemented and evaluated.
+Developed machine learning models to predict the risk of heart disease using clinical and patient health data. The project includes data preprocessing, feature engineering, and model evaluation to identify the most effective predictive model.
 
-The results show that the Random Forest model achieves the highest accuracy, making it the most effective for predicting heart disease.
-This project highlights how machine learning can support early detection and better healthcare decision-making.
+### Tech Stack
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Jupyter Notebook
+
+### Models Used
+
+* Logistic Regression
+* K-Nearest Neighbors (KNN)
+* Support Vector Machine (SVM)
+* Naive Bayes
+* Decision Tree
+* Random Forest
+
+### Key Insights
+
+* Data preprocessing improved model performance.
+* Feature engineering helped capture important health indicators.
+* Random Forest achieved the highest prediction accuracy.
+* Machine learning can support early heart disease detection and healthcare decision-making.
+
+### Skills Demonstrated
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Classification Modeling
+* Model Evaluation
+* Data Visualization
